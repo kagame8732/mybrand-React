@@ -9,7 +9,7 @@ function NewContact() {
   async function handleContact(e) {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/api/contacts", {
+      await axios.post("https://apis-lvc4.onrender.com/api/contacts", {
         name,
         email,
         message,
