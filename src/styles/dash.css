@@ -313,7 +313,6 @@ textarea.blog-form-text {
 
 .btnContainer {
     display: flex;
-    /* flex-direction: row; */
     gap: 3rem;
     justify-content: space-between;
     padding: 1rem;
@@ -359,3 +358,4 @@ textarea.blog-form-text {
 .likeBtn:hover {
     color: red;
 }
+

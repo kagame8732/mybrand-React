@@ -456,7 +456,7 @@ textarea.blog-form-text {
     display: none;
 }
 
-.message .danger {
+.form-message .danger {
     font-size: 20px;
     position: absolute;
     color: red;
